@@ -25,5 +25,5 @@ HOST-SUFFIX,tiktokv.us,TikTok
 HOST-SUFFIX,tiktokw.us,TikTok
 HOST-SUFFIX,ttwstatic.com,TikTok
 HOST-SUFFIX,ttwebview.com,TikTok
-HOST-KETWORD,musical.ly,TikTok
-HOST-KETWORD,tiktok,TikTok
+HOST-KEYWORD,musical.ly,TikTok
+HOST-KEYWORD,tiktok,TikTok
