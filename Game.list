@@ -1,0 +1,115 @@
+payload:
+# Epic
+HOST-SUFFIX,epicgames.com
+HOST-SUFFIX,epicgames.dev
+HOST-SUFFIX,helpshift.com
+HOST-SUFFIX,paragon.com
+HOST-SUFFIX,unrealengine.com
+
+# EA
+HOST,cloudsync-prod.s3.amazonaws.com
+HOST,eaasserts-a.akamaihd.net
+HOST,originasserts.akamaized.net
+HOST,rtm.tnt-ea.com
+HOST-SUFFIX,ea.com
+HOST-SUFFIX,origin.com
+  
+# Steam
+HOST,steammobile.akamaized.net
+HOST-SUFFIX,cdn-ali.content.steamchina.com
+HOST-SUFFIX,cdn-qc.content.steamchina.com
+HOST-SUFFIX,cdn-ws.content.steamchina.com
+HOST-SUFFIX,csgo.wmsj.cn
+HOST-SUFFIX,dl.steam.clngaa.com
+HOST-SUFFIX,dl.steam.ksyna.com
+HOST-SUFFIX,dota2.wmsj.cn
+HOST-SUFFIX,fanatical.com
+HOST-SUFFIX,humblebundle.com
+HOST-SUFFIX,playartifact.com
+HOST-SUFFIX,s.team
+HOST-SUFFIX,st.dl.bscstorage.net
+HOST-SUFFIX,st.dl.eccdnx.com
+HOST-SUFFIX,st.dl.pinyuncloud.com
+HOST-SUFFIX,steam-api.com
+HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steambroadcast.akamaized.net
+HOST-SUFFIX,steamcdn-a.akamaihd.net
+HOST-SUFFIX,steamcommunity-a.akamaihd.net
+HOST-SUFFIX,steamcommunity.com
+HOST-SUFFIX,steamcontent.tnkjmec.com
+HOST-SUFFIX,steamgames.com
+HOST-SUFFIX,steampipe.akamaized.net
+HOST-SUFFIX,steampowered.com
+HOST-SUFFIX,steampowered.com.8686c.com
+HOST-SUFFIX,steamstat.us
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamstatic.com.8686c.com
+HOST-SUFFIX,steamstore-a.akamaihd.net
+HOST-SUFFIX,steamunlocked.net
+HOST-SUFFIX,steamusercontent-a.akamaihd.net
+HOST-SUFFIX,steamuserimages-a.akamaihd.net
+HOST-SUFFIX,steamvideo-a.akamaihd.net
+HOST-SUFFIX,underlords.com
+HOST-SUFFIX,valvesoftware.com
+HOST-SUFFIX,wmsjsteam.com
+  - DOMAIN-KEYWORD,steambroadcast
+  - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steamuserimages
+  
+# Sony
+HOST-SUFFIX,playstation.com
+HOST-SUFFIX,playstation.net
+HOST-SUFFIX,playstationnetwork.com
+HOST-SUFFIX,sony.com
+HOST-SUFFIX,sonyentertainmentnetwork.com
+
+# Nintendo
+HOST-SUFFIX,nintendo-europe.com
+HOST-SUFFIX,nintendo.be
+HOST-SUFFIX,nintendo.co.jp
+HOST-SUFFIX,nintendo.co.uk
+HOST-SUFFIX,nintendo.com
+HOST-SUFFIX,nintendo.com.au
+HOST-SUFFIX,nintendo.de
+HOST-SUFFIX,nintendo.es
+HOST-SUFFIX,nintendo.eu
+HOST-SUFFIX,nintendo.fr
+HOST-SUFFIX,nintendo.it
+HOST-SUFFIX,nintendo.jp
+HOST-SUFFIX,nintendo.net
+HOST-SUFFIX,nintendo.nl
+HOST-SUFFIX,nintendowifi.net
+
+# Xbox
+HOST-SUFFIX,xbox.com
+HOST-SUFFIX,xboxab.com
+HOST-SUFFIX,xboxab.net
+HOST-SUFFIX,xboxlive.com
+HOST-SUFFIX,xboxservice.com
+HOST-SUFFIX,xboxservices.com
+HOST-SUFFIX,gamepass.com
+
+# Ubisoft
+HOST,uplaypc-s-ubisoft.cdn.ubi.com
+HOST-SUFFIX,ubi.com
+HOST-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+HOST-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+HOST-SUFFIX,ubisoft.com
+HOST-SUFFIX,uplay.com
+
+# Blizzard
+HOST-SUFFIX,battle.net
+HOST-SUFFIX,battlenet.com
+HOST-SUFFIX,blizzard.com
+
+# Rockstar
+HOST-SUFFIX,media-rockstargames-com.akamaized.net
+HOST-SUFFIX,rockstargames.com
+HOST-SUFFIX,rsg.sc
+HOST-SUFFIX,videos-rockstargames-com.akamaized.net
+
+# Gog
+HOST,gog.salesmanago.com
+HOST-SUFFIX,gog-statics.com
+HOST-SUFFIX,gog.com
+HOST-SUFFIX,gog.qtlglb.com
