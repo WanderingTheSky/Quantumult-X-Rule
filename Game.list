@@ -51,8 +51,8 @@ HOST-SUFFIX,steamvideo-a.akamaihd.net,Game
 HOST-SUFFIX,underlords.com,Game
 HOST-SUFFIX,valvesoftware.com,Game
 HOST-SUFFIX,wmsjsteam.com,Game
-HOST-KETWORD,steambroadcast,Game
-HOST-KETWORD,steamstore,Game
+HOST-KEYWORD,steambroadcast,Game
+HOST-KEYWORD,steamstore,Game
 HOST-KEYWORD,steamuserimages,Game
   
 # Sony
