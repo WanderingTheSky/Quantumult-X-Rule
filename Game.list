@@ -1,114 +1,114 @@
 # Epic
-HOST-SUFFIX,epicgames.com
-HOST-SUFFIX,epicgames.dev
-HOST-SUFFIX,helpshift.com
-HOST-SUFFIX,paragon.com
-HOST-SUFFIX,unrealengine.com
+HOST-SUFFIX,epicgames.com,Game
+HOST-SUFFIX,epicgames.dev,Game
+HOST-SUFFIX,helpshift.com,Game
+HOST-SUFFIX,paragon.com,Game
+HOST-SUFFIX,unrealengine.com,Game
 
 # EA
-HOST,cloudsync-prod.s3.amazonaws.com
-HOST,eaasserts-a.akamaihd.net
-HOST,originasserts.akamaized.net
-HOST,rtm.tnt-ea.com
-HOST-SUFFIX,ea.com
-HOST-SUFFIX,origin.com
+HOST,cloudsync-prod.s3.amazonaws.com,Game
+HOST,eaasserts-a.akamaihd.net,Game
+HOST,originasserts.akamaized.net,Game
+HOST,rtm.tnt-ea.com,Game
+HOST-SUFFIX,ea.com,Game
+HOST-SUFFIX,origin.com,Game
   
 # Steam
-HOST,steammobile.akamaized.net
-HOST-SUFFIX,cdn-ali.content.steamchina.com
-HOST-SUFFIX,cdn-qc.content.steamchina.com
-HOST-SUFFIX,cdn-ws.content.steamchina.com
-HOST-SUFFIX,csgo.wmsj.cn
-HOST-SUFFIX,dl.steam.clngaa.com
-HOST-SUFFIX,dl.steam.ksyna.com
-HOST-SUFFIX,dota2.wmsj.cn
-HOST-SUFFIX,fanatical.com
-HOST-SUFFIX,humblebundle.com
-HOST-SUFFIX,playartifact.com
-HOST-SUFFIX,s.team
-HOST-SUFFIX,st.dl.bscstorage.net
-HOST-SUFFIX,st.dl.eccdnx.com
-HOST-SUFFIX,st.dl.pinyuncloud.com
-HOST-SUFFIX,steam-api.com
-HOST-SUFFIX,steam-chat.com
-HOST-SUFFIX,steambroadcast.akamaized.net
-HOST-SUFFIX,steamcdn-a.akamaihd.net
-HOST-SUFFIX,steamcommunity-a.akamaihd.net
-HOST-SUFFIX,steamcommunity.com
-HOST-SUFFIX,steamcontent.tnkjmec.com
-HOST-SUFFIX,steamgames.com
-HOST-SUFFIX,steampipe.akamaized.net
-HOST-SUFFIX,steampowered.com
-HOST-SUFFIX,steampowered.com.8686c.com
-HOST-SUFFIX,steamstat.us
-HOST-SUFFIX,steamstatic.com
-HOST-SUFFIX,steamstatic.com.8686c.com
-HOST-SUFFIX,steamstore-a.akamaihd.net
-HOST-SUFFIX,steamunlocked.net
-HOST-SUFFIX,steamusercontent-a.akamaihd.net
-HOST-SUFFIX,steamuserimages-a.akamaihd.net
-HOST-SUFFIX,steamvideo-a.akamaihd.net
-HOST-SUFFIX,underlords.com
-HOST-SUFFIX,valvesoftware.com
-HOST-SUFFIX,wmsjsteam.com
-  - DOMAIN-KEYWORD,steambroadcast
-  - DOMAIN-KEYWORD,steamstore
-  - DOMAIN-KEYWORD,steamuserimages
+HOST,steammobile.akamaized.net,Game
+HOST-SUFFIX,cdn-ali.content.steamchina.com,Game
+HOST-SUFFIX,cdn-qc.content.steamchina.com,Game
+HOST-SUFFIX,cdn-ws.content.steamchina.com,Game
+HOST-SUFFIX,csgo.wmsj.cn,Game
+HOST-SUFFIX,dl.steam.clngaa.com,Game
+HOST-SUFFIX,dl.steam.ksyna.com,Game
+HOST-SUFFIX,dota2.wmsj.cn,Game
+HOST-SUFFIX,fanatical.com,Game
+HOST-SUFFIX,humblebundle.com,Game
+HOST-SUFFIX,playartifact.com,Game
+HOST-SUFFIX,s.team,Game
+HOST-SUFFIX,st.dl.bscstorage.net,Game
+HOST-SUFFIX,st.dl.eccdnx.com,Game
+HOST-SUFFIX,st.dl.pinyuncloud.com,Game
+HOST-SUFFIX,steam-api.com,Game
+HOST-SUFFIX,steam-chat.com,Game
+HOST-SUFFIX,steambroadcast.akamaized.net,Game
+HOST-SUFFIX,steamcdn-a.akamaihd.net,Game
+HOST-SUFFIX,steamcommunity-a.akamaihd.net,Game
+HOST-SUFFIX,steamcommunity.com,Game
+HOST-SUFFIX,steamcontent.tnkjmec.com,Game
+HOST-SUFFIX,steamgames.com,Game
+HOST-SUFFIX,steampipe.akamaized.net,Game
+HOST-SUFFIX,steampowered.com,Game
+HOST-SUFFIX,steampowered.com.8686c.com,Game
+HOST-SUFFIX,steamstat.us,Game
+HOST-SUFFIX,steamstatic.com,Game
+HOST-SUFFIX,steamstatic.com.8686c.com,Game
+HOST-SUFFIX,steamstore-a.akamaihd.net,Game
+HOST-SUFFIX,steamunlocked.net,Game
+HOST-SUFFIX,steamusercontent-a.akamaihd.net,Game
+HOST-SUFFIX,steamuserimages-a.akamaihd.net,Game
+HOST-SUFFIX,steamvideo-a.akamaihd.net,Game
+HOST-SUFFIX,underlords.com,Game
+HOST-SUFFIX,valvesoftware.com,Game
+HOST-SUFFIX,wmsjsteam.com,Game
+HOST-KETWORD,steambroadcast,Game
+HOST-KETWORD,steamstore,Game
+HOST-KEYWORD,steamuserimages,Game
   
 # Sony
-HOST-SUFFIX,playstation.com
-HOST-SUFFIX,playstation.net
-HOST-SUFFIX,playstationnetwork.com
-HOST-SUFFIX,sony.com
-HOST-SUFFIX,sonyentertainmentnetwork.com
+HOST-SUFFIX,playstation.com,Game
+HOST-SUFFIX,playstation.net,Game
+HOST-SUFFIX,playstationnetwork.com,Game
+HOST-SUFFIX,sony.com,Game
+HOST-SUFFIX,sonyentertainmentnetwork.com,Game
 
 # Nintendo
-HOST-SUFFIX,nintendo-europe.com
-HOST-SUFFIX,nintendo.be
-HOST-SUFFIX,nintendo.co.jp
-HOST-SUFFIX,nintendo.co.uk
-HOST-SUFFIX,nintendo.com
-HOST-SUFFIX,nintendo.com.au
-HOST-SUFFIX,nintendo.de
-HOST-SUFFIX,nintendo.es
-HOST-SUFFIX,nintendo.eu
-HOST-SUFFIX,nintendo.fr
-HOST-SUFFIX,nintendo.it
-HOST-SUFFIX,nintendo.jp
-HOST-SUFFIX,nintendo.net
-HOST-SUFFIX,nintendo.nl
-HOST-SUFFIX,nintendowifi.net
+HOST-SUFFIX,nintendo-europe.com,Game
+HOST-SUFFIX,nintendo.be,Game
+HOST-SUFFIX,nintendo.co.jp,Game
+HOST-SUFFIX,nintendo.co.uk,Game
+HOST-SUFFIX,nintendo.com,Game
+HOST-SUFFIX,nintendo.com.au,Game
+HOST-SUFFIX,nintendo.de,Game
+HOST-SUFFIX,nintendo.es,Game
+HOST-SUFFIX,nintendo.eu,Game
+HOST-SUFFIX,nintendo.fr,Game
+HOST-SUFFIX,nintendo.it,Game
+HOST-SUFFIX,nintendo.jp,Game
+HOST-SUFFIX,nintendo.net,Game
+HOST-SUFFIX,nintendo.nl,Game
+HOST-SUFFIX,nintendowifi.net,Game
 
 # Xbox
-HOST-SUFFIX,xbox.com
-HOST-SUFFIX,xboxab.com
-HOST-SUFFIX,xboxab.net
-HOST-SUFFIX,xboxlive.com
-HOST-SUFFIX,xboxservice.com
-HOST-SUFFIX,xboxservices.com
-HOST-SUFFIX,gamepass.com
+HOST-SUFFIX,xbox.com,Game
+HOST-SUFFIX,xboxab.com,Game
+HOST-SUFFIX,xboxab.net,Game
+HOST-SUFFIX,xboxlive.com,Game
+HOST-SUFFIX,xboxservice.com,Game
+HOST-SUFFIX,xboxservices.com,Game
+HOST-SUFFIX,gamepass.com,Game
 
 # Ubisoft
-HOST,uplaypc-s-ubisoft.cdn.ubi.com
-HOST-SUFFIX,ubi.com
-HOST-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
-HOST-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
-HOST-SUFFIX,ubisoft.com
-HOST-SUFFIX,uplay.com
+HOST,uplaypc-s-ubisoft.cdn.ubi.com,Game
+HOST-SUFFIX,ubi.com,Game
+HOST-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com,Game
+HOST-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com,Game
+HOST-SUFFIX,ubisoft.com,Game
+HOST-SUFFIX,uplay.com,Game
 
 # Blizzard
-HOST-SUFFIX,battle.net
-HOST-SUFFIX,battlenet.com
-HOST-SUFFIX,blizzard.com
+HOST-SUFFIX,battle.net,Game
+HOST-SUFFIX,battlenet.com,Game
+HOST-SUFFIX,blizzard.com,Game
 
 # Rockstar
-HOST-SUFFIX,media-rockstargames-com.akamaized.net
-HOST-SUFFIX,rockstargames.com
-HOST-SUFFIX,rsg.sc
-HOST-SUFFIX,videos-rockstargames-com.akamaized.net
+HOST-SUFFIX,media-rockstargames-com.akamaized.net,Game
+HOST-SUFFIX,rockstargames.com,Game
+HOST-SUFFIX,rsg.sc,Game
+HOST-SUFFIX,videos-rockstargames-com.akamaized.net,Game
 
 # Gog
-HOST,gog.salesmanago.com
-HOST-SUFFIX,gog-statics.com
-HOST-SUFFIX,gog.com
-HOST-SUFFIX,gog.qtlglb.com
+HOST,gog.salesmanago.com,Game
+HOST-SUFFIX,gog-statics.com,Game
+HOST-SUFFIX,gog.com,Game
+HOST-SUFFIX,gog.qtlglb.com,Game
